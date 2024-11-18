@@ -2,6 +2,20 @@
 
 A powerful and user-friendly storage solution built with cutting-edge technologies, offering seamless file management and sharing capabilities.
 
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard Screenshot](/public/assets/images/dashboard.png)
+
+### Sign In
+
+![Sign In Page](/public/assets/images/signin.png)
+
+### Sign Up
+
+![Sign Up Page](/public/assets/images/signup.png)
+
 ## ⚡️ Tech Stack
 
 - [React 19](https://react.dev) - The latest version of React with improved performance
